@@ -8,10 +8,10 @@
 
 ## 🧑💻 关于我
 
-- 🔭 目前在做：[项目/方向]
-- 🌱 正在学：[技术栈]
-- 💬 可以问我：[擅长的领域]
-- ⚡ 冷知识：[随便写点有趣的]
+- 🔭 目前在做：![Starlight_launcher](https://github.com/ApTx2012/Starlight_Lancher)
+- 🌱 正在学：rust,ts
+- 💬 可以问我：rust,git,python
+- ⚡ 冷知识：这家伙是个人
 
 ---
 
