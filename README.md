@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ApTx2012;%E4%B8%80%E4%B8%AA%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%AD%A3%E5%9C%A8%E5%AD%A6+Rust)](https://github.com/ApTx2012)
 
-> [一句话介绍自己，比如：一个喜欢折腾的开发者]
-
 ---
 
 ## 🧑💻 关于我
