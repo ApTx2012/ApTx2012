@@ -1,4 +1,4 @@
-# 喵~ 我是 ApTx2012 👋
+# 喵~ 我是 AxTps 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ApTx2012;%E4%B8%80%E4%B8%AA%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%AD%A3%E5%9C%A8%E5%AD%A6+Rust)](https://github.com/ApTx2012)
 
@@ -6,9 +6,9 @@
 
 ## 🧑💻 关于我
 
-- 🔭 目前在做：![Starlight_launcher](https://github.com/ApTx2012/Starlight_Lancher)
-- 🌱 正在学：rust,ts
-- 💬 可以问我：rust,git,python
+- 🔭 目前在做：[Starlight_Launcher](https://github.com/ApTx2012/Starlight_Lancher)
+- 🌱 正在学：Rust, TypeScript
+- 💬 可以问我：Rust, Git, Python
 - ⚡ 冷知识：这家伙是个人
 
 ---
@@ -21,15 +21,10 @@
 
 ## 📊 GitHub 统计
 
-![ApTx2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApTx2012&show_icons=true&theme=tokyonight)
+<!-- 国内镜像：github-readme-stats 的第三方反代，若挂掉可换其他反代域名 -->
+![AxTps's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApTx2012&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApTx2012&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 成就
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ApTx2012&theme=onedark&row=1&column=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApTx2012&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
