@@ -1,3 +1,5 @@
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
+
 # 喵~ 我是 AxTps 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ApTx2012;%E4%B8%80%E4%B8%AA%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%AD%A3%E5%9C%A8%E5%AD%A6+Rust)](https://github.com/ApTx2012)
@@ -37,6 +39,19 @@
 ## 💬 每日一句
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📈 徽章
+
+[![Stars](https://img.shields.io/github/stars/ApTx2012?style=for-the-badge&logo=github&color=yellow)](https://github.com/ApTx2012?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/ApTx2012?style=for-the-badge&logo=github&color=blue)](https://github.com/ApTx2012)
+
+---
+
+## 🐍 贡献贪吃蛇
+
+![Snake](./assets/github-contribution-grid-snake.svg)
 
 ---
 
