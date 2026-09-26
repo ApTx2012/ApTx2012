@@ -62,12 +62,12 @@
 - 技术栈：Rust + TypeScript
 - 仓库：[Starlight_Lancher](https://github.com/ApTx2012/Starlight_Lancher)
 
-### 📦 [项目名]
+### 📦 cargo-eta
 
-[一句话描述]
+让你的cargo build可以显示eta
 
-- 技术栈：[...]
-- 仓库：[链接]
+- 技术栈：Rust
+- 仓库：[cargo-eta](https://github.com/ApTx2012/cargo-eta)
 
 </details>
 
